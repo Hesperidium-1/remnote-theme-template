@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "theme_template",
-  "name": "Theme Template",
-  "author": "RemNote",
+  "id": "Hesperidium_Dark_Theme_Snippet",
+  "name": "Hesperidium_Dark_Theme",
+  "author": "Hesperidium",
   "repoUrl": "",
   "enableOnMobile": false,
   "version": {
@@ -10,8 +10,8 @@
     "minor": 0,
     "patch": 1
   },
-  "theme": ["light"],
-  "description": "",
+  "theme": ["dark"],
+  "description": "Hesperidium_Dark_Theme",
   "requestNative": false,
   "requiredScopes": []
 }
